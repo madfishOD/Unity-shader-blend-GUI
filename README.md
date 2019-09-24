@@ -9,7 +9,6 @@ Example in repo basicaly is just slightly modified default unlit shader. But you
 
 # How to use
 You can find shader GUI called "BlendGUI.cs" here "Assets\Scripts\Editor\".
-NOTE: If you want to change it's location in your project folder for any type of custom editors should be called "Editor" 
 
 ### 1) Add this properties to your shader property block
 
